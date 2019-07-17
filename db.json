@@ -1,0 +1,7 @@
+{
+  "buku": [
+    { "id": 1, "judul": "Jung's Map Of Soul", "penulis": "Murray Stein", "penerbit": "Gramedia" , "sinopsis": "Jung termasuk psikoanalis, sama seperti Freud, Adler dan lain-lain yang umumnya bicara soal kepribadian manusia", "harga": 300000, "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41YCZ1SPk8L._SX330_BO1,204,203,200_.jpg"},
+    { "id": 2, "judul": "Light Novel Conan A Challenge Letter to Shinichi Kudo", "penulis": "Aoyama Gosho", "penerbit": "Gramedia" , "sinopsis": "Di aula tempat berkumpulnya Miss dan runner up Miss sepuluh kampus, yaitu total dua puluh orang, dilaksanakan sebuah permainan. Namun, insiden yang tak terduga menimpa sang pemenang! Sinichi Kudo yang berada di tempat kejadian mengungkapkan kebenaran menyedihkan yang tersembunyi dibaliknya!", "harga": 68800"imgUrl": "https://cdn.gramedia.com/uploads/items/9786020499246_Detektif_Cona__w414_hauto.jpg"},
+    { "id": 3, "judul": "A Poem I Wrote for You", "penulis": "Adi K.", "penerbit": "Gramedia" , "sinopsis": "Set the stars on fire and burn the ocean with desire. Leave heaven on the shore your mind is the only thing I ask for.", "harga": 63840, "imgUrl": "https://cdn.gramedia.com/uploads/items/9786020495422_A-Poem-I-Wrote-For-You-A-Poem-with-Your-Name-2__w414_hauto.jpg"}
+  ]
+}
